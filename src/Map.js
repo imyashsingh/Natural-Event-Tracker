@@ -10,7 +10,7 @@ function Map({ data }) {
     height: window.innerHeight - 50,
     latitude: -20.2284,
     longitude: -20.9098,
-    zoom: 2,
+    zoom: 3,
   });
 
   window.onresize = () =>

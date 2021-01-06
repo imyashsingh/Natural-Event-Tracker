@@ -6,14 +6,14 @@ import Infobox from "./Infobox";
 
 function Map({ data }) {
   const [viewport, setViewport] = useState({
-    width: "100vw",
-    height: "100vh",
+    width: window.innerWidth,
+    height: window.innerHeight - 50,
     latitude: -20.2284,
     longitude: -20.9098,
     zoom: 2,
   });
 
-  /* window.onresize = () =>
+  window.onresize = () =>
     setViewport((prev) => {
       return {
         ...prev,
@@ -21,7 +21,7 @@ function Map({ data }) {
         height: window.innerHeight - 50,
       };
     });
-*/
+
   const [locationInfo, setlocationInfo] = useState(null);
 
   const markers = data.map((ev) => {

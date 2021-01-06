@@ -16,7 +16,6 @@ function App() {
       const { events } = await res.json();
       setdata(events);
       setloading(false);
-      console.log(events);
     };
     fetchData();
   }, []);

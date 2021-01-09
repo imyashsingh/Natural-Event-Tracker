@@ -1,11 +1,12 @@
 # Images of website
 
+Landing page
 ![Landing page](./screenshot/1.png "Landing page")
-
+page loading
 ![page loading ](./screenshot/2.png " page loading")
-
+Natural event info
 ![Natural event info](./screenshot/3.png "Natural event info")
-
+zoom on event
 ![zoom on event](./screenshot/4.png "zoom on event")
 
 # Getting Started with Create React App

@@ -1,6 +1,6 @@
 # Images of website
 
-![Landing page](https://drive.google.com/file/d/16XJcfJWnyFUnm67bWKWVwOv9mKlz-zXc/view?usp=sharing "Landing page")
+![Landing page](https://drive.google.com/file/d/16XJcfJWnyFUnm67bWKWVwOv9mKlz-zXc/view?usp=sharing.png "Landing page")
 
 # Getting Started with Create React App
 

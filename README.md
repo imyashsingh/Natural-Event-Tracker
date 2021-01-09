@@ -1,6 +1,10 @@
 # Images of website
 
+<<<<<<< HEAD
 ![Landing page](./screenshot/1.png "Landing page")
+=======
+![Landing page](https://drive.google.com/file/d/16XJcfJWnyFUnm67bWKWVwOv9mKlz-zXc/view?usp=sharing.png "Landing page")
+>>>>>>> 59895b57164fe36794df877fc8851fbf8c8098fb
 
 # Getting Started with Create React App
 
